@@ -1,2 +1,2 @@
 # artificial-muscle
-The model is in release
+The model is in releases
